@@ -1,6 +1,5 @@
 # Ultrasound-image-classification-and-segmentation
 
-
 __*Disclaimer*__: *This project do not pretend to do the work of a Doctor, this project will help the analysis for a Doctor.* 🩺
 
 
@@ -9,6 +8,8 @@ __*Disclaimer*__: *This project do not pretend to do the work of a Doctor, this 
 This is not a *commercial software*. The main objective of this project is to build an opensource code for medical image analysis, in this case the model was trainned with breast cancer images. In the future more cancer images will be added to help identifying cancer in early stages.
 
 We created via ML model a classification and segmentation model for breast ultrasound cancer. Cancer is a very hard disease that in some cases cannot be cured, but an early detection will help a lot of people. ❤️
+
+*The page.py file is an stremlit framework with a demo for the app* Nowadays we don´t received printed ultra-sound images, these images are sent directly to the doctor, the demo is a preview of the tool for the doctors.
 
 
 ## 2. How the project was built?
@@ -36,5 +37,8 @@ The dataset is composed on images only. To process the images we used images lib
 - Flatten
            
 
+## Important info
+
+No pre-trainned models were used for this project. 🌊 First execute the model so the .h5 can be created and the demo can run.
 
 
