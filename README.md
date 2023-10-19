@@ -39,6 +39,6 @@ The dataset is composed on images only. To process the images we used images lib
 
 ## Important info
 
-No pre-trainned models were used for this project. 🌊 First execute the model so the .h5 can be created and the demo can run.
+Models are included into the models folder. Also a .Dockerfile was added to deploy on a separated environmet.
 
 
