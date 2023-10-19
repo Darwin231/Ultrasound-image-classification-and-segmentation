@@ -41,4 +41,7 @@ The dataset is composed on images only. To process the images we used images lib
 
 Models are included into the models folder. Also a .Dockerfile was added to deploy on a separated environmet.
 
+To execute the docker remember to first call the python 3.9 image with the commadn:
+           docker pull python:3.9 
+
 
